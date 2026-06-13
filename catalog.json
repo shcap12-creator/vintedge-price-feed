@@ -279,6 +279,94 @@
       "sourceNote": "直近30日の平均落札価格・カラー混在",
       "sampleCount": 145,
       "asOf": "2026-06-13"
+    },
+    {
+      "id": "watch.rolex.daytona.126500ln-white",
+      "category": "watch",
+      "brand": "ロレックス",
+      "name": "コスモグラフ デイトナ（白文字盤）",
+      "detail": "Ref.126500LN（白文字盤）",
+      "priceYen": 5850000,
+      "sourceName": "ジャックロード調べ",
+      "sourceNote": "中古販売価格相場（570〜600万円）の中間",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "watch.rolex.datejust.126300",
+      "category": "watch",
+      "brand": "ロレックス",
+      "name": "デイトジャスト41（青文字盤）",
+      "detail": "Ref.126300",
+      "priceYen": 1550000,
+      "sourceName": "宝石広場調べ",
+      "sourceNote": "中古販売価格（ステンレス・青文字盤）",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "watch.rolex.datejust.126334",
+      "category": "watch",
+      "brand": "ロレックス",
+      "name": "デイトジャスト41（WGコンビ）",
+      "detail": "Ref.126334",
+      "priceYen": 2120000,
+      "sourceName": "宝石広場調べ",
+      "sourceNote": "中古販売価格（ホワイトゴールドコンビ）",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "watch.rolex.yacht-master.126622",
+      "category": "watch",
+      "brand": "ロレックス",
+      "name": "ヨットマスター40",
+      "detail": "Ref.126622",
+      "priceYen": 2250000,
+      "sourceName": "腕時計投資.com・価格.com調べ",
+      "sourceNote": "中古の直近売れ筋価格（約225万円）",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "watch.rolex.oyster-perpetual.124300",
+      "category": "watch",
+      "brand": "ロレックス",
+      "name": "オイスターパーペチュアル41",
+      "detail": "Ref.124300",
+      "priceYen": 1020000,
+      "sourceName": "腕時計投資.com調べ",
+      "sourceNote": "中古価格の中央値",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "tcg.pokemon.ekuba-lillie.psa10",
+      "category": "tradingCard",
+      "brand": "ポケモンカード",
+      "name": "エクストラバトルの日 リーリエ PSA10",
+      "detail": "PSA10鑑定品・291枚",
+      "priceYen": 9650000,
+      "sourceName": "ポケカチ（altema）",
+      "sourceNote": "発行枚数が少なく希少。PSA10相場",
+      "asOf": "2026-06-07"
+    },
+    {
+      "id": "tcg.pokemon.pikachu-ex-sar.psa10",
+      "category": "tradingCard",
+      "brand": "ポケモンカード",
+      "name": "ピカチュウex SAR（超電ブレイカー）PSA10",
+      "detail": "PSA10鑑定品",
+      "priceYen": 133000,
+      "sourceName": "ポケカチ（altema）",
+      "sourceNote": "PSA10相場（素体8万円）",
+      "asOf": "2026-06-13"
+    },
+    {
+      "id": "tcg.pokemon.pikachu-sv-promo.psa10",
+      "category": "tradingCard",
+      "brand": "ポケモンカード",
+      "name": "ピカチュウ（SVプロモ）PSA10",
+      "detail": "PSA10鑑定品",
+      "priceYen": 21200,
+      "sourceName": "ポケカチ（altema）",
+      "sourceNote": "PSA10相場",
+      "asOf": "2026-05-31"
     }
   ]
 }
