@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13",
+  "updatedAt": "2026-06-14",
   "note": "Vintedge 対応モデル相場表（運営が手動更新する参考価格。出典・基準日つき）",
   "models": [
     {
@@ -9,10 +9,11 @@
       "brand": "ロレックス",
       "name": "コスモグラフ デイトナ",
       "detail": "Ref.126500LN（黒文字盤）",
-      "priceYen": 4800000,
-      "sourceName": "銀座ブランドレックス・クォーク調べ",
-      "sourceNote": "実売価格帯400万円台後半〜500万円の中間値",
-      "asOf": "2026-02-05"
+      "priceYen": 5249900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の中古販売価格。クォークが最高値。価格.comは約515万〜550万、ジャックロード約525万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_catalog/daytona_126500ln_blk.html"
     },
     {
       "id": "watch.rolex.submariner-date.126610ln",
@@ -20,10 +21,11 @@
       "brand": "ロレックス",
       "name": "サブマリーナ デイト",
       "detail": "Ref.126610LN",
-      "priceYen": 2450000,
-      "sourceName": "ロレックス専門店クォーク調べ",
-      "sourceNote": "中古販売価格（2021年製247万円）を参考",
-      "asOf": "2026-06-13"
+      "priceYen": 2669900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の中古販売価格。クォークが最高値。価格.comは約223万〜242万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_catalog/submariner_126610ln.html"
     },
     {
       "id": "watch.rolex.gmt-master2.126710blnr",
@@ -31,10 +33,11 @@
       "brand": "ロレックス",
       "name": "GMTマスターII（バットマン）",
       "detail": "Ref.126710BLNR",
-      "priceYen": 2770000,
-      "sourceName": "銀座ブランドレックス",
-      "sourceNote": "2026年5月の平均買取相場",
-      "asOf": "2026-06-01"
+      "priceYen": 3359900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の中古販売価格。バットマンはクォークが最高値。価格.comは約310万〜333万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_catalog/gmt_master_126710blnr_bbk_jbl.html"
     },
     {
       "id": "watch.rolex.explorer1.124270",
@@ -42,10 +45,11 @@
       "brand": "ロレックス",
       "name": "エクスプローラーI",
       "detail": "Ref.124270（36mm）",
-      "priceYen": 1250000,
-      "sourceName": "銀座ブランドレックス",
-      "sourceNote": "市場価格は新品定価（120万円台）前後",
-      "asOf": "2026-02-05"
+      "priceYen": 1759900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の中古販売価格。36mmはクォークが最高値。価格.comは約117万〜144万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_catalog/explorer_124270_new.html"
     },
     {
       "id": "watch.rolex.explorer2.226570",
@@ -53,10 +57,11 @@
       "brand": "ロレックス",
       "name": "エクスプローラーII",
       "detail": "Ref.226570",
-      "priceYen": 1580000,
-      "sourceName": "銀座ブランドレックス",
-      "sourceNote": "新品定価1,576,300円・市場は安定した価格帯",
-      "asOf": "2026-02-05"
+      "priceYen": 1870000,
+      "sourceName": "GINZA RASIN",
+      "sourceNote": "複数の専門店を比較し最も高い店の販売価格。価格.com中古でGINZA RASIN/UpperTimeが最高値帯。他店は時計広場186万・キタムラ191.8万等。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.rasin.co.jp/SHOP/U-226570BK.html"
     },
     {
       "id": "tcg.pokemon.charizard-vmax-hr-promo.psa10",
@@ -65,9 +70,10 @@
       "name": "リザードンVMAX HR（争奪戦プロモ）PSA10",
       "detail": "PSA10鑑定品",
       "priceYen": 1930000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。世界1,200枚の争奪戦プロモ。altema相場193万、magi実販売165万〜244万(中央約200万)。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/7946"
     },
     {
       "id": "tcg.pokemon.mega-charizard-x-ex-sar.psa10",
@@ -76,9 +82,10 @@
       "name": "メガリザードンXex SAR PSA10",
       "detail": "PSA10鑑定品",
       "priceYen": 207000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "sourceName": "トレカスタイル",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。3サイトが18.6万〜23万のレンジで中央値20.7万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://tradingcardstyle.jp/pokemoncard-megacharizardxexsarprice/"
     },
     {
       "id": "tcg.pokemon.charizard-ex-sr.psa10",
@@ -86,10 +93,11 @@
       "brand": "ポケモンカード",
       "name": "リザードンex SR PSA10",
       "detail": "PSA10鑑定品",
-      "priceYen": 29300,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "priceYen": 18600,
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。黒炎の支配者の量産SR。magi実販売18,634円・店舗10,800円とaltema相場29,300円の中央値約18,600円。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/20066"
     },
     {
       "id": "tcg.pokemon.mario-pikachu.psa10",
@@ -97,10 +105,11 @@
       "brand": "ポケモンカード",
       "name": "マリオピカチュウ（プロモ）PSA10",
       "detail": "PSA10鑑定品",
-      "priceYen": 5800000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "priceYen": 4980000,
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。294/XY-P。altema498万・マジックカードショップ558万・はれるや420万の中央値498万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/4"
     },
     {
       "id": "tcg.pokemon.shining-mew-old.psa10",
@@ -108,10 +117,11 @@
       "brand": "ポケモンカード",
       "name": "ひかるミュウ（旧裏）PSA10",
       "detail": "PSA10鑑定品",
-      "priceYen": 5800000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "priceYen": 5600000,
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。旧裏ひかるミュウ、PSA10は623枚と極少。altema580万・PRICE BASE560万・関連535万の中央値560万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/11463"
     },
     {
       "id": "tcg.pokemon.shining-gyarados-old.psa10",
@@ -120,9 +130,10 @@
       "name": "ひかるギャラドス（旧裏）PSA10",
       "detail": "PSA10鑑定品",
       "priceYen": 6600000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "ショップ・フリマ調査ベースの相場",
-      "asOf": "2026-06-10"
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索で確認。PSA10実勢を確認できた主要ソースはaltema(660万)。攻略大百科は素体販売328万で高額帯を裏付け。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/11457"
     },
     {
       "id": "tcg.yugioh.blue-eyes.initial-secret",
@@ -131,9 +142,10 @@
       "name": "青眼の白龍（初期シークレット）",
       "detail": "シクブル",
       "priceYen": 5000000,
-      "sourceName": "カードラッシュ買取価格",
-      "sourceNote": "販売価格は1,080万円",
-      "asOf": "2026-06-13"
+      "sourceName": "アルテマ(altema)",
+      "sourceNote": "品名検索・上位サイト実取引から算出。altema買取500万(販売1,080万、メルカリ相場500万〜550万)。Vジャンプフェスタ99配布の型番なしシークレットで流通極少。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/yugiohcard/shikublue"
     },
     {
       "id": "tcg.yugioh.blue-eyes.english-ultra",
@@ -142,9 +154,10 @@
       "name": "青眼の白龍 ウルトラ（英語版）",
       "detail": "Blue-Eyes White Dragon",
       "priceYen": 2800000,
-      "sourceName": "カードラッシュ買取価格",
-      "sourceNote": "販売価格は358万円",
-      "asOf": "2026-06-13"
+      "sourceName": "アルテマ(altema)",
+      "sourceNote": "品名検索・上位サイト実取引から算出。altema買取280万・販売358万。LOB初版ウルトラ。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/yugiohcard/ultrablueeyes"
     },
     {
       "id": "tcg.yugioh.blue-eyes.kanji-ultra",
@@ -153,9 +166,10 @@
       "name": "藍眼白龍 ウルトラ（漢字版）",
       "detail": "青眼の白龍 漢字版",
       "priceYen": 2300000,
-      "sourceName": "カードラッシュ買取価格",
-      "sourceNote": "販売価格は298万円",
-      "asOf": "2026-06-13"
+      "sourceName": "アルテマ(altema)",
+      "sourceNote": "品名検索・上位サイト実取引から算出。藍眼白龍(漢字版)altema買取230万・販売298万・メルカリ230万〜253万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/yugiohcard/kanziblueeyes"
     },
     {
       "id": "wine.drc.romanee-conti.2020",
@@ -164,9 +178,10 @@
       "name": "ロマネ・コンティ 2020",
       "detail": "正規品・付属品ありが前提",
       "priceYen": 2900000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "大黒屋",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。大黒屋買取価格表で2020年=290万。ユニコーン・ストックラボでも良年は200万〜300万帯。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori.e-daikoku.com/liquor/wine/romanee-conti/"
     },
     {
       "id": "wine.drc.montrachet.2015",
@@ -174,10 +189,11 @@
       "brand": "DRC",
       "name": "モンラッシェ 2015",
       "detail": "",
-      "priceYen": 800000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "priceYen": 810000,
+      "sourceName": "買取エリート(kaitori-off.net)",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。買取エリート81.3万・リカスタ90万・リンクサス65万の中央値約81万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori-off.net/liquor/wine/drc/romanee-conti-montrachet"
     },
     {
       "id": "wine.drc.la-tache.2019",
@@ -186,9 +202,10 @@
       "name": "ラ・ターシュ 2019",
       "detail": "",
       "priceYen": 650000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "大黒屋",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。大黒屋2019年買取実績65万。ストックラボ等も同水準。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori.e-daikoku.com/liquor/wine/drc/latache/ex/"
     },
     {
       "id": "wine.drc.richebourg.2019",
@@ -197,9 +214,10 @@
       "name": "リシュブール 2019",
       "detail": "",
       "priceYen": 410000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "買取エリート(kaitori-off.net)",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。買取エリート45万・リンクサス40万・ウリドキ38.7万の中央値約41万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori-off.net/liquor/wine/drc/romanee-conti-richebourg"
     },
     {
       "id": "wine.petrus.2005",
@@ -208,9 +226,10 @@
       "name": "ペトリュス 2005",
       "detail": "",
       "priceYen": 370000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "ストックラボ",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。ストックラボ44万・リンクサス35万・大黒屋近接年25万〜47.5万。買取相場の中央値的に約37万(販売88万は外れ値除外)。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.stock-lab.com/osake-kaitori/wine/chateau-petrus/"
     },
     {
       "id": "wine.lafite.2007",
@@ -219,9 +238,10 @@
       "name": "ラフィット・ロートシルト 2007",
       "detail": "5大シャトー",
       "priceYen": 65000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "大黒屋",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。大黒屋2007年買取実績6.5万・ヒカカク6.25万・大黒屋(2月)5.3万の中央値約6.5万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori.e-daikoku.com/liquor/wine/lafiterothschild/ex/"
     },
     {
       "id": "wine.margaux.1992",
@@ -230,9 +250,10 @@
       "name": "マルゴー 1992",
       "detail": "5大シャトー",
       "priceYen": 35000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "大黒屋",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。大黒屋1992年買取実績3.5万・ヒカカク3.8万・近接年3.1万〜4万の中央値約3.5万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori.e-daikoku.com/liquor/wine/chateau-margaux/"
     },
     {
       "id": "wine.screaming-eagle.2011",
@@ -240,10 +261,11 @@
       "brand": "スクリーミング・イーグル",
       "name": "スクリーミング・イーグル 2011",
       "detail": "カリフォルニア",
-      "priceYen": 320000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "priceYen": 150000,
+      "sourceName": "ヒカカク！",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。買取・落札の実取引はヒカカク13万・ネオプライス15万・オークファン落札4.5万〜17.4万に収斂。販売希望74.8万は外れ値除外。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://hikakaku.com/category/all-category/riquor/wine/screaming%20eagle/"
     },
     {
       "id": "wine.opus-one.2010",
@@ -252,9 +274,10 @@
       "name": "オーパス・ワン 2010",
       "detail": "カリフォルニア",
       "priceYen": 43000,
-      "sourceName": "大黒屋 買取参考価格",
-      "sourceNote": "買取参考価格（今売る場合の目安）",
-      "asOf": "2026-06-12"
+      "sourceName": "大黒屋",
+      "sourceNote": "銘柄+年で検索し上位3サイト実取引から算出。大黒屋買取価格表で2010年=4.3万、おたからや・買取エリート同水準、ヒカカク4.56万。中央値約4.3万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kaitori.e-daikoku.com/liquor/wine/opus-one/"
     },
     {
       "id": "sneaker.nike.aj1-lost-and-found",
@@ -262,11 +285,12 @@
       "brand": "Nike",
       "name": "Air Jordan 1 High OG Lost & Found (Chicago)",
       "detail": "DZ5485-612",
-      "priceYen": 29200,
-      "sourceName": "オークファン（ヤフオク落札データ）",
-      "sourceNote": "直近30日の平均落札価格・状態混在",
+      "priceYen": 52000,
+      "sourceName": "スニーカーダンク(snkrdunk)",
+      "sourceNote": "品番DZ5485-612で検索・上位3サイト実取引から算出。snkrdunk記事の二次流通50,000〜60,000円、買取相場約52,000円、チバカン50,000円。代表値52,000。",
       "sampleCount": 65,
-      "asOf": "2026-06-13"
+      "asOf": "2026-06-14",
+      "sourceURL": "https://snkrdunk.com/products/DZ5485-612/sales-histories"
     },
     {
       "id": "sneaker.adidas.yeezy-boost-350-v2",
@@ -274,11 +298,12 @@
       "brand": "adidas",
       "name": "YEEZY Boost 350 V2（全般）",
       "detail": "カラー混在の参考値",
-      "priceYen": 11014,
-      "sourceName": "Yahoo!オークション落札相場",
-      "sourceNote": "直近30日の平均落札価格・カラー混在",
+      "priceYen": 22700,
+      "sourceName": "オークファン(ヤフオク落札相場)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。ヤフオク落札平均22,657円(120日1,163件)、価格.com中心26,800円、スニダンカラー別21,500〜50,000円。人気カラー全般の参考代表値22,700。",
       "sampleCount": 145,
-      "asOf": "2026-06-13"
+      "asOf": "2026-06-14",
+      "sourceURL": "https://aucfan.com/intro/q-YEEZY.20BOOST.20350/"
     },
     {
       "id": "watch.rolex.daytona.126500ln-white",
@@ -286,10 +311,11 @@
       "brand": "ロレックス",
       "name": "コスモグラフ デイトナ（白文字盤）",
       "detail": "Ref.126500LN（白文字盤）",
-      "priceYen": 5850000,
-      "sourceName": "ジャックロード調べ",
-      "sourceNote": "中古販売価格相場（570〜600万円）の中間",
-      "asOf": "2026-06-13"
+      "priceYen": 6479900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の中古販売価格。白文字盤(パンダ)はクォークが最高値。GINZA RASIN約623万〜630万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_catalog/daytona_126500ln_wht.html"
     },
     {
       "id": "watch.rolex.datejust.126300",
@@ -297,10 +323,11 @@
       "brand": "ロレックス",
       "name": "デイトジャスト41（青文字盤）",
       "detail": "Ref.126300",
-      "priceYen": 1550000,
-      "sourceName": "宝石広場調べ",
-      "sourceNote": "中古販売価格（ステンレス・青文字盤）",
-      "asOf": "2026-06-13"
+      "priceYen": 1630000,
+      "sourceName": "GINZA RASIN(価格.com中古)",
+      "sourceNote": "複数の専門店を比較し最も高い店の販売価格。青文字盤・オイスターブレスでGINZA RASINが在庫あり最高値163万円。他店はWATCHNIAN153.7〜158.4万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kakaku.com/item/K0000974087/used/"
     },
     {
       "id": "watch.rolex.datejust.126334",
@@ -308,10 +335,11 @@
       "brand": "ロレックス",
       "name": "デイトジャスト41（WGコンビ）",
       "detail": "Ref.126334",
-      "priceYen": 2120000,
-      "sourceName": "宝石広場調べ",
-      "sourceNote": "中古販売価格（ホワイトゴールドコンビ）",
-      "asOf": "2026-06-13"
+      "priceYen": 2280000,
+      "sourceName": "価格.com中古(在庫あり最高値)",
+      "sourceNote": "複数の専門店を比較し在庫ありの最高値を採用。WGフルーテッドベゼル。GINZA RASIN商品ページ256万はSOLD OUTのため不採用。在庫あり相場223〜228万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kakaku.com/item/K0000974092/"
     },
     {
       "id": "watch.rolex.yacht-master.126622",
@@ -319,10 +347,11 @@
       "brand": "ロレックス",
       "name": "ヨットマスター40",
       "detail": "Ref.126622",
-      "priceYen": 2250000,
-      "sourceName": "腕時計投資.com・価格.com調べ",
-      "sourceNote": "中古の直近売れ筋価格（約225万円）",
-      "asOf": "2026-06-13"
+      "priceYen": 2569900,
+      "sourceName": "ロレックス専門店クォーク",
+      "sourceNote": "複数の専門店を比較し最も高い店の販売価格。SS×プラチナ(ロレジウム)。クォークが最高値、トキオカ245万・キタムラ232.8万。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://www.909.co.jp/rolex_used/model/yacht_master_126622_266158/"
     },
     {
       "id": "watch.rolex.oyster-perpetual.124300",
@@ -330,10 +359,11 @@
       "brand": "ロレックス",
       "name": "オイスターパーペチュアル41",
       "detail": "Ref.124300",
-      "priceYen": 1020000,
-      "sourceName": "腕時計投資.com調べ",
-      "sourceNote": "中古価格の中央値",
-      "asOf": "2026-06-13"
+      "priceYen": 1549900,
+      "sourceName": "WATCHNIAN(価格.com中古)",
+      "sourceNote": "複数の専門店を比較し最も高い店の販売価格。シルバー文字盤。WATCHNIANが信頼できる最高値154.99万。UpperTime208万は外れ値として除外。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://kakaku.com/item/K0001292466/used/"
     },
     {
       "id": "tcg.pokemon.ekuba-lillie.psa10",
@@ -342,9 +372,10 @@
       "name": "エクストラバトルの日 リーリエ PSA10",
       "detail": "PSA10鑑定品・291枚",
       "priceYen": 9650000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "発行枚数が少なく希少。PSA10相場",
-      "asOf": "2026-06-07"
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・altemaの直近価格推移3点(990万/965万/920万)から中央値965万を採用。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/5994"
     },
     {
       "id": "tcg.pokemon.pikachu-ex-sar.psa10",
@@ -352,10 +383,11 @@
       "brand": "ポケモンカード",
       "name": "ピカチュウex SAR（超電ブレイカー）PSA10",
       "detail": "PSA10鑑定品",
-      "priceYen": 133000,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "PSA10相場（素体8万円）",
-      "asOf": "2026-06-13"
+      "priceYen": 132000,
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・上位3サイト実取引から算出。altema132,000・カードラッシュ128,000・マジカードショップ135,000の中央値132,000。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/29010"
     },
     {
       "id": "tcg.pokemon.pikachu-sv-promo.psa10",
@@ -363,10 +395,11 @@
       "brand": "ポケモンカード",
       "name": "ピカチュウ（SVプロモ）PSA10",
       "detail": "PSA10鑑定品",
-      "priceYen": 21200,
-      "sourceName": "ポケカチ（altema）",
-      "sourceNote": "PSA10相場",
-      "asOf": "2026-05-31"
+      "priceYen": 20700,
+      "sourceName": "ポケカチ(altema)",
+      "sourceNote": "品名検索・altemaの直近推移3点(19,600/24,900/20,700)から中央値20,700を採用。",
+      "asOf": "2026-06-14",
+      "sourceURL": "https://altema.jp/pokemoncard/card/15768"
     }
   ]
 }
